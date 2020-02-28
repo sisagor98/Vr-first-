@@ -1,0 +1,4 @@
+#Sun Feb 09 17:24:48 BDT 2020
+base.0=E\:\\New Unity Project\\Vr plan\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
